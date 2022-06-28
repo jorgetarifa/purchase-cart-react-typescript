@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://res.cloudinary.com/jorge-tarifa/image/upload/v1656380367/shopping-cart-ts/book_liddii.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://res.cloudinary.com/jorge-tarifa/image/upload/v1656380359/shopping-cart-ts/pc_wul7us.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.5,
+    "imgUrl": "https://res.cloudinary.com/jorge-tarifa/image/upload/v1655964855/shopping-cart-ts/bananas_uizgsk.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Smartphone",
+      "price": 700,
+      "imgUrl": "https://res.cloudinary.com/jorge-tarifa/image/upload/v1656380427/shopping-cart-ts/smartphone_xu0f8m.webp"
+    },
+  {
+    "id": 5,
+    "name": "Air Frier",
+    "price": 115,
+    "imgUrl": "https://res.cloudinary.com/jorge-tarifa/image/upload/v1655964855/shopping-cart-ts/air_frier_cybpga.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Smart watch",
+      "price": 139,
+      "imgUrl": "https://res.cloudinary.com/jorge-tarifa/image/upload/v1655964855/shopping-cart-ts/smartwatch_hoh8gr.jpg"
+    }
+]
